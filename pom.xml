@@ -56,10 +56,10 @@
 
     <properties>
         <confluent.version>${project.version}</confluent.version>
-        <derby.version>10.11.1.1</derby.version>
-        <commons-io.version>2.4</commons-io.version>
-        <sqlite-jdbc.version>3.8.11.2</sqlite-jdbc.version>
-        <postgresql.version>9.4-1206-jdbc41</postgresql.version>
+        <derby.version>10.17.1.0</derby.version>
+        <commons-io.version>2.7</commons-io.version>
+        <sqlite-jdbc.version>3.41.2.2</sqlite-jdbc.version>
+        <postgresql.version>42.3.9</postgresql.version>
         <licenses.name>Apache License 2.0</licenses.name>
         <licenses.version>${project.version}</licenses.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
